@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+{% include topcomment.html %}
+<html lang="{{ site.lang }}">
+    
+  {% include head.html %}
+
+  <body class="landing">
+
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+      {% include header.html %}
+
+        <!-- Banner -->
+          <section id="banner">
+            <div class="inner">
+              <h1 style="font-size:40px !important; font-weight:1000">{{ site.teamName }}</h1>
+              </br>
+              <h1 font-weight="1500">{{ site.title }}</h1>
+              <p font-weight="1000">{{ site.description }}</p>
+              <img src=images/giphy.gif alt="launch gif"  opacity="0.5;"></img>
+            </div>{%
+            if site.greeting %}
+            <a href="#greeting" class="more scrolly">Continue</a>{%
+            else %}
+            <a href="#landing_pages" class="more scrolly">Continue</a>{%
+            endif %}
+          </section>
+
+
+
+        <!-- Pages -->
+          <section id="landing_pages" class="wrapper style4" style="padding-top:0em">{%
+            assign sorted_pages = site.pages | sort:'key','last' %}{%
+            for my_page in sorted_pages %}{%
+              if my_page.title %}{%
+                unless my_page.options contains 'nolanding' %}
+            <section class="spotlight">
+              <div class="image">
+                <a href="{{ my_page.url | prepend:site.baseurl }}">
+                <img src="{{ site.baseurl }}/images/{% if my_page.image %}{{ my_page.image }}{% else %}banner.jpg{% endif %}"
+                     alt="{% if my_page.image_alt %}{{ my_page.image_alt }}{% else %}Image for {{ my_page.title | escape }}{% endif %}" />
+                </a>
+              </div>
+              <div class="content-wrap">
+              <a href="{{ my_page.url | prepend:site.baseurl }}">
+              <div class="content">
+                <h2>{{ my_page.title }}</h2>
+                <p>{{ my_page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>
+              </div>
+              </a></div>
+            </section>{%
+                endunless %}{%
+              endif %}{%
+            endfor %}
+          </section>
+
+        <!-- Featured (not using) -->
+        {% if site.tags.featured %}
+          <section id="landing_features" class="wrapper style3 special">
+            <div class="inner">
+              <header class="major">
+                <h2>{{ site.features-title }}</h2>
+                <!-- <p>Blog posts with decent content</p> -->
+              </header>
+              <ul class="features">{%
+                for my_post in site.posts %}{%
+                  if my_post.tags contains 'featured' %}{%
+                    assign i = i | plus:1 %}
+                <li class="icon fa-{% if my_post.icon %}{{ my_post.icon }}{% else %}heart-o{% endif %}"><!-- featured:{{ i }} -->
+                  <a href="{{ my_post.url | prepend:site.baseurl }}">
+                  <div class="container">
+                  <h3>{{ my_post.title }}</h3>
+                  <p>{{ my_post.data}}<br />{{ my_post.excerpt | strip_html | truncatewords: 16 }}</p>
+                  </div>
+                  </a>
+                </li>{%
+                    if i == 8 %}{%
+                      break %}{%
+                    endif %}{%
+                  endif %}{%
+                endfor %}
+              </ul>
+            </div>
+          </section>{%
+      endif %}
+
+        <!-- CTA -->
+          <section id="cta" class="wrapper style4">
+            <div class="inner">
+              <header>
+                <h2>{{ site.closing-head }}</h2>
+                <p>{{ site.closing-para }}</p>
+              </header>
+              <ul class="actions vertical">
+                <li><a href="{{ '/contact/' | prepend: site.baseurl }}" class="button fit special">Contact</a></li>
+              </ul>
+            </div>
+          </section>
+
+      {% include footer.html %}
+
+      {% include scripts.html %}
+
+    </div>
+
+  </body>
+
+</html>
