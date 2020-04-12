@@ -1,0 +1,1162 @@
+commit 3904b24e603b723fb6e12a5a232064cc0dd8cad4
+Author: Got Science? That's us <gotscience.thatsus@gmail.com>
+Date:   Sat Apr 11 17:49:01 2020 -0700
+
+    [doc] upadting image
+
+commit af6b7aaa06f1618385bbc5ce11229204ee9c50ee
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Dec 30 21:06:18 2019 -0800
+
+    [feat] Adding posts in blog
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit f4be9d482e3bd89771efdcd075e1fdb525254940
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Dec 30 21:05:12 2019 -0800
+
+    [doc] Reduce resolution of background image for Namma Mysuru
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 76fe2f4d8b337a92136033a8cf53295d67d3c420
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Dec 30 21:03:50 2019 -0800
+
+    [fix] fixing permalink for posts
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit bc501b8f0315642763a0c2d3814696867780d714
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Sun Dec 29 17:18:32 2019 -0800
+
+    [feat] Add namma mysuru project
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 4c6230580095f00d31a882a630dd3c4c815e3bb7
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Sun Dec 29 17:18:09 2019 -0800
+
+    [fix] Update subtitle for hear rate project
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit b646f3d22e65e9d7219975a93325a4c185054675
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Fri Dec 27 09:14:59 2019 -0800
+
+    [fix] Add responsiveness to images in posts
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit d2c4cd68a9e6bfb927bdd31217a1ec518c2b9bbd
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Fri Dec 27 08:49:10 2019 -0800
+
+    [feat] Adding projects
+    
+    Adding projects,
+    1. Vivitsa
+    2. IOT
+    3. Heart Rate Measurement
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 65433960fc53710c2b376efe6774fd6cc69c09cd
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Fri Dec 27 08:40:49 2019 -0800
+
+    [feat] Remove nav links at posts bottom
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 6e49c3e526e772b80b34a89de5fa5bc716dbb46a
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Fri Dec 27 08:39:52 2019 -0800
+
+    [fix] Fix permalink bug in posts breadcumb
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 45c285963a6b3b81bc4ef983d2007961dedaf6a3
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Fri Dec 27 08:39:17 2019 -0800
+
+    [doc] Rename works as projects
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 594ca1a266c56406a6300b951c305776a3880f9d
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Fri Dec 27 07:31:46 2019 -0800
+
+    [fix] Fix padding on landing page
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 53546059e39defc61eb3b5575d9951e579c61819
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Wed Dec 25 15:42:58 2019 -0800
+
+    [feat] Set the height of landing page pages to 45%
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit cfacf3f983f33b3166e23a486ca3067d064710f2
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Wed Dec 25 15:42:13 2019 -0800
+
+    [doc] Rename and update blog images
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 82c697aa4b472ab30603487d620219f4973078f3
+Author: Got Science? That's us <gotscience.thatsus@gmail.com>
+Date:   Sat Apr 11 17:18:39 2020 -0700
+
+    [doc] Add .jekyll-cache/ to .gitignore
+
+commit 9bd1290b331da8608ff789bfa8d06ff1dfa395af
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Wed Dec 25 00:08:54 2019 -0800
+
+    [feat] Add Contact page background image and set its position
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 0ce948e1aec5ef4e276abccc7d080997b29db7ef
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Wed Dec 25 00:06:25 2019 -0800
+
+    [feat] Set transparent and gradient background to landing page
+    
+    Set the background to gradient and made it transparent for the
+    pages in the landing page.
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 0230dab833e5f555759c43c0a05ca76310010d3e
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Tue Dec 24 21:53:25 2019 -0800
+
+    [doc] Cleanup unused images
+    
+    Removed unused images and renamed images with more meaningful
+    names.
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit de93b3182aad8805ef436b67b853bff7cba2db70
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Tue Dec 24 00:06:36 2019 -0800
+
+    [feat/fix] Adding Project
+    
+    1. Added first project page
+    2. Tweaked few things in project layout and html to get alignment
+    and directory structure to look like the way I want.
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit ce510102b6ce3289ab76cf13ba9705ecdfe4ab01
+Author: Sinduja Raghavendra <sindujak29@gmail.com>
+Date:   Mon Dec 23 11:11:27 2019 -0800
+
+    [fix] Remove Captcha
+    
+    Remove captcha php script and formspree does spam verification.
+    
+    Signed-off-by: Sinduja Raghavendra <sindujak29@gmail.com>
+
+commit 7253bd22493a71f526d784554a654c342e31e9fa
+Author: Sinduja Raghavendra <sindujak29@gmail.com>
+Date:   Sun Dec 22 22:18:23 2019 -0800
+
+    [fix/mod] Rename project categories as projects instead of works
+    
+    1. Renamed categories for project posts as projects instead of works.
+    2. Fixed liquid exception error for html like comment inside {%
+    
+    Signed-off-by: Sinduja Raghavendra <sindujak29@gmail.com>
+
+commit b3a400a630c0455cf847707289c902cb90259040
+Author: Sinduja Raghavendra <sindujak29@gmail.com>
+Date:   Sun Dec 22 21:07:20 2019 -0800
+
+    [Fix] Responsiveness of landing page
+    
+    Fixed background image resize error in the landing page.
+    
+    Signed-off-by: Sinduja Raghavendra <sindujak29@gmail.com>
+
+commit e9400d309898790c3d59b7eb9ca1f739aa1b9546
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Wed Sep 11 15:19:01 2019 -0700
+
+    [doc] Remove unwanted files
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit e5761ee94905edcd3492642cffa641c75f35d112
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Sep 9 23:50:42 2019 -0700
+
+    [fix] Remove contact button from About page
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit fff0d85ef302ae0efff765625ab02e091b06a3f6
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Sep 9 23:49:31 2019 -0700
+
+    [update] Update blog image
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 979ad3a04a7a22ce0a16c81d5abeb8d539a5344d
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Sep 9 23:49:04 2019 -0700
+
+    [fix] Change topics to blog
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 1c9ce2685d646a87e4e59836d4f8e833b81f63f8
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Sep 9 23:33:30 2019 -0700
+
+    [update] Update Author photo and remove unused images
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit 3b0ff78aba61ee1c95b2ff78a8ce2e060b082bd2
+Author: Got Science? That's us <gotscience.thatsus@gmail.com>
+Date:   Sat Apr 11 16:48:35 2020 -0700
+
+    [doc] update gitignore
+
+commit b82e4d1195b28b7b3f7d14333df761741e59d688
+Author: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+Date:   Mon Sep 9 23:24:37 2019 -0700
+
+    [doc] Remove backnext section and change colour in css/main.scss
+    
+    Signed-off-by: Ragu Manjegowda <raghavendrahm0410@gmail.com>
+
+commit d08d47aacf7cf49b6e9ead8074f3bceb9197638e
+Author: Got Science? That's us <gotscience.thatsus@gmail.com>
+Date:   Sat Apr 11 16:47:00 2020 -0700
+
+    [doc]remove unused contact pages
+
+commit 6d9e029251ca914f56ff94b09d7c61c8d429869b
+Author: Got Science? That's us <gotscience.thatsus@gmail.com>
+Date:   Sat Apr 11 16:42:47 2020 -0700
+
+    [doc]Page Navigations
+
+commit 12f7f53bdd107e8c015c1a60a55512bccacde39d
+Author: Got Science? That's us <gotscience.thatsus@gmail.com>
+Date:   Fri Apr 10 19:26:27 2020 -0700
+
+    [feat] Add greeting
+
+commit 34bd8dd2284a42a21be796de22852bdf9c79e9c5
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Jun 29 23:06:34 2019 -0700
+
+    another cc license
+
+commit 7a2811173f12bff74c9fe4ace5a40ac7f421e413
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Jun 29 23:06:18 2019 -0700
+
+    gemfile versions
+
+commit da8c64601bc8e27980b2f74446c3f523ebd3ea80
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Jun 9 01:31:29 2019 -0700
+
+    consistent transition
+
+commit 92f0800c832bc79c6ef6f3fc30754b2893fdfbe9
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Jun 9 01:15:49 2019 -0700
+
+    better use of skel
+
+commit 0785ec4b0a791d85de3c47c62c4284968260deda
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Jun 8 23:42:33 2019 -0700
+
+    another updated image
+
+commit 236b3385e4ec28d25f06c6432fbeb775872987bc
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Jun 8 23:33:17 2019 -0700
+
+    update style in doc
+
+commit eb9254da8e4e1a5807f0042b09d060ad89aa424f
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Jun 8 23:06:17 2019 -0700
+
+    use single palette and skel
+
+commit da649028bbc49a8e79758d24de573a0baf514587
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Oct 5 10:55:52 2018 -0700
+
+    minor
+
+commit 9b777ddbcbdb3dbd50a0654b72a0c7d529cd01e7
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Sep 22 16:51:13 2018 -0700
+
+    guide edits
+
+commit 8b4701b79d4a993e034833ab00c32c7304defa25
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Sep 22 16:22:44 2018 -0700
+
+    better customize notices
+
+commit 7b55544fb143124c8c603e5a4ba5e4ffd307fcbc
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Sep 22 14:39:31 2018 -0700
+
+    accessibility changes to fix #22
+
+commit e1599ac8a2555c22fa91c1d7f4a6960ee0b862df
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Sep 16 00:56:50 2018 -0700
+
+    editorial changes
+
+commit 7eedf35effcadb8abd159e9eba20fe5dcb3b09a8
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Sep 16 00:55:29 2018 -0700
+
+    cycle through original Spectral colors
+
+commit f19d8403ad2ed024e4daef2c484fdff34773edd8
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Sep 15 15:08:47 2018 -0700
+
+    editorial changes
+
+commit 99710c27591f67f6ce458ff56876f0d4daf252d2
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Sep 10 00:10:07 2018 -0700
+
+    clean up credits
+
+commit 2d02804ad58e880c720df1c3440a40d6cdd9f8cb
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Sep 8 22:46:00 2018 -0700
+
+    Create LICENSE
+
+commit 43900925e79b9405919a42305ab7301c6a5a9c62
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Sep 8 22:27:52 2018 -0700
+
+    minor edit
+
+commit b744078ca452ac13ae36d90d764f9a57b0e73e88
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Sep 8 22:05:06 2018 -0700
+
+    fix order
+
+commit db5d2756f08acbd74803e0c10e3b5f2f2790b97d
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Sep 8 21:45:07 2018 -0700
+
+    guide and features update
+
+commit e6bf328e41b009e74cc3b901dd9b9f0450bcb793
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Wed Aug 22 19:32:29 2018 -0700
+
+    more props to my man
+
+commit 8daaef7a5f6d218c24e410c9bc97ce709e4f6401
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Aug 19 21:46:26 2018 -0700
+
+    Update README.md
+
+commit 7ecf073532de328130895e873dcc4bf9e130c119
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Aug 19 21:22:34 2018 -0700
+
+    Update README.md
+
+commit 911a7efd54f7ba9bee8c829a7001ea2eda6c01f5
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Aug 19 21:11:24 2018 -0700
+
+    re-organize
+
+commit fb39c91072e57f6854f550bff4e26a8ddb94c21f
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Aug 18 20:25:22 2018 -0700
+
+    Update README.md
+
+commit 8b54253128fac995b751dae4bc7a44989977e5a8
+Merge: deb07e5 edd5ecd
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Aug 18 20:20:52 2018 -0700
+
+    Merge branch 'vladdsm-include'
+
+commit edd5ecdcf1d5899c2ed4fb5025035c3df4b70471
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Aug 18 20:16:51 2018 -0700
+
+    includes and user guide
+    thanks vladdsm for inspiration
+
+commit deb07e5b5990b0174ebb7920be17c47ee690f453
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Aug 18 18:22:45 2018 -0700
+
+    Update README.md
+
+commit 8d536c64c671d13f2955b1e153e6cf085aea6a5f
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sat Aug 4 17:06:42 2018 -0700
+
+    Update compose.rb
+
+commit a07c832ca530a0b33a43b6e8f49760881de08deb
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Jul 14 23:29:31 2018 -0700
+
+    lastmod not lastupdated
+
+commit 991419684038552f61e9f6d1fa5694d3c30bd77d
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Jun 24 02:20:01 2018 -0700
+
+    first q default and getinput fn
+
+commit 0448b248476580ad6aedbe44241a83237d2077b7
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Jun 9 00:12:08 2018 -0700
+
+    a bit more generic
+
+commit bbd66240e6573e1fd0b95e3c8d3b5c954fb0db1b
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Jun 9 00:10:29 2018 -0700
+
+    minor nits
+
+commit a9eb94b96e8d7e0913f16a8d7a1501d3b23c320e
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Jun 8 20:25:08 2018 -0700
+
+    slightly larger clickable area
+
+commit ea684c45686ef91181b3981fb189e3e890c57a11
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Jun 7 22:58:49 2018 -0700
+
+    conditionalize
+
+commit a9a18b92218feda5dd797bfd1bc027c1d9c78c2f
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Jun 7 22:57:30 2018 -0700
+
+    better robots
+
+commit 4ea698c49fb81cb887344552e33c81283af01a06
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Jun 1 00:31:58 2018 -0700
+
+    Home skips banner now, and minor styles
+
+commit 00442affd270192503584b14f8e3a2448782a27a
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Jun 1 00:30:57 2018 -0700
+
+    anonymizeIp for GDPR
+
+commit 7ee5bc23ad1349e40d0a6d7feca9e4737801cb4f
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Jun 1 00:27:07 2018 -0700
+
+    nunya
+
+commit 283234332633b98d95b738947f4eebf01f6a9b67
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun May 20 22:57:50 2018 -0700
+
+    lang, favicon, alt text
+
+commit 12fdc760e611b8bc643c14df326ab5e1b76bda97
+Merge: 85dae5d f932ba9
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Nov 19 19:21:46 2017 -0800
+
+    Merge pull request #20 from arkadianriver/fix-baseurl
+    
+    better support for baseurl issue #19 reported by @vladdsm
+
+commit f932ba96f1d10e3e473df37ccbf13f6675f2b312
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Nov 19 19:09:51 2017 -0800
+
+    better support for baseurl issue #19 reported by @vladdsm
+
+commit 85dae5d531effae1e8cad8853d6fc5646e0c96f8
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Nov 19 18:35:05 2017 -0800
+
+    using bundle, in prep for some minifying later
+
+commit 681df1a199ed278dcea8d5875955b090c2a3959a
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Sep 15 17:53:59 2017 -0700
+
+    minor updates
+
+commit 1532fc84a15d7d849b1d18359762618b0a8de9bf
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Jun 17 00:50:12 2017 -0700
+
+    humble thyself
+
+commit 22ccb94b6c0c87d6b1592306d5008b542b281833
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Jun 17 00:38:58 2017 -0700
+
+    no 3s load time
+
+commit f21b97675b29217fe5211d379ca9e5ba5afbd6a1
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Jun 17 00:17:52 2017 -0700
+
+    nospampleez
+
+commit 624f593b366555bf8a0fbc31a47e642e0fcd097c
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Jun 17 00:10:57 2017 -0700
+
+    reduce grahic filesize
+
+commit 153fa8989dc9a9b474487bddc39e82a0eb9393e7
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Jun 16 01:07:38 2017 -0700
+
+    ignore lock
+
+commit 659c603d7b8de90f1c31ec2858266efd38d89b00
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Dec 4 15:58:48 2016 -0800
+
+    Update README.md
+
+commit 0a0b8408fea958554fd496f508e567bb4ffae3e5
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Dec 4 15:51:26 2016 -0800
+
+    one para
+
+commit 7e2f526043684a5d91d69894b6c59c974c52daee
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Dec 4 15:49:44 2016 -0800
+
+    a bit more user friendly
+
+commit f1c1646f0e4c520124170b4b87181478adf47a85
+Merge: 1de5b8d a29f2d4
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Nov 26 04:40:06 2016 -0800
+
+    Merge branch 'refs/heads/dev20161126'
+
+commit a29f2d4afecd83f1ead6d997f7d0db1ce22280d2
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Nov 26 04:38:54 2016 -0800
+
+    AJ's new twitter handle
+    
+    Have only credits and URLs give props, not template posts.
+    
+    (Also, new kramdown version apparently recognizes closing > on first
+    line as blockquote.. which is good I guess.)
+
+commit 1eeea9fb310c79e0f344dcfacab0e98639acaf68
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Nov 26 04:34:19 2016 -0800
+
+    Fix #15 Liquid warnings
+    
+    Updated jekyll to 3.3.1 and discovered the warnings. Turns out that
+    Liquid doesn't allow groupings in conditions, even though it seemed to
+    work before. The warnings also caught a missing filter pipe.
+
+commit 1de5b8d75ac27f615ac4e52c5956f5e6653c1b02
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun May 22 20:10:30 2016 -0700
+
+    very simple captcha
+
+commit 223bea7376812d7a5cf779c98d03bb7cfd1e58ce
+Merge: 95e860b a95d421
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri May 20 15:00:41 2016 -0700
+
+    Merge branch 'master' of https://github.com/arkadianriver/arkadianriver.com
+
+commit 95e860bb3366a396063a41b1356b7f930691e994
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri May 20 14:58:53 2016 -0700
+
+    fix #14: mkdir _drafts if exist
+
+commit b9b47e031e8ddfacc35c8eaebf498c14e7c397fa
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri May 20 14:57:12 2016 -0700
+
+    linkedin update
+
+commit a95d421a625d4e6e31f6dbf21d0f3db1789a40aa
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Thu Apr 14 00:49:07 2016 -0700
+
+    done for now
+
+commit e82a56dcc15c2db1142ea0714fac6a93a798d9c3
+Merge: 0034c47 721250b
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Apr 14 00:29:46 2016 -0700
+
+    Merge branch 'refs/heads/dev160414'
+
+commit 721250bc4167456f864384a278e534975a60cdc4
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Apr 14 00:29:22 2016 -0700
+
+    fixed sort, not relying on .next
+
+commit c30d966aca5630b50a7a430345da81d61994d657
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Apr 14 00:26:51 2016 -0700
+
+    quotes unnecessary
+
+commit 0034c4744de7a2d78da908ce2e4b8d755b066b9c
+Merge: c162acf fc4fac2
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Wed Apr 13 23:53:05 2016 -0700
+
+    Merge branch 'refs/heads/dev160404a'
+
+commit fc4fac29015da59e07c6a20918b708a63ace67fe
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Wed Apr 13 23:52:43 2016 -0700
+
+    use html ext in case kramdown parse_block_html=true
+
+commit fde7e9ac553e35524a51cb55dcf446b07192ed10
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Wed Apr 13 23:50:56 2016 -0700
+
+    add author
+
+commit c162acf5a2d466cccb47d1428ced17d4fa392f12
+Merge: 1cfd502 bf787ed
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Apr 4 05:46:35 2016 -0700
+
+    Merge branch 'refs/heads/dev160403'
+
+commit bf787ed243998bc1577c7f4e0f95aa5f9dccbd05
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Apr 4 05:46:11 2016 -0700
+
+    minor edits
+
+commit 3ba60b0888915af6122f4bb09a425906c7bdb873
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Apr 4 05:45:53 2016 -0700
+
+    better non-featured option
+    
+    Fixes #12
+
+commit 170d364715f7cf6a2fb98f3135e11b6708f49972
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Apr 4 05:44:40 2016 -0700
+
+    no parse block, if default is true
+
+commit 713b167b79126c1679b549888bd1c6cea4928c3d
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Apr 4 05:44:03 2016 -0700
+
+    <=ie8, too
+
+commit a34e399cb8a8c62c8df677b6ed73bcf47fd8fa93
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Apr 4 05:42:28 2016 -0700
+
+    add defnof option to not see future posts
+
+commit 0b7a4b94484f18ac5b7157269af502335d53abb5
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Apr 4 05:42:04 2016 -0700
+
+    a bit tighter
+
+commit 1cfd50251668a1c478f089ee583cb24f2d0ce4b4
+Merge: 131d237 c1afa44
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Apr 3 07:22:41 2016 -0700
+
+    Merge branch 'refs/heads/dev2016-03-30'
+
+commit c1afa443bbd748c175e986c26f611f0dde44a8da
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Apr 3 07:22:04 2016 -0700
+
+    better sub-categories
+
+commit 4ef5ba9142494580a302424888f8cbef8652adf6
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Apr 3 07:21:11 2016 -0700
+
+    Add script to help create new posts
+
+commit 5ca5decddbea2f76896055a261851aff7c287fdf
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Apr 3 07:20:03 2016 -0700
+
+    include custom style option
+
+commit 131d237f8b82263c6ac527e528d1c0698a3b375c
+Merge: ba3a909 80ebd09
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Wed Mar 30 04:21:15 2016 -0700
+
+    Merge pull request #11 from arkadianriver/fix-nav
+    
+    Fix nav
+
+commit 80ebd09a8c381a5266b3e4170f5fe9bcbbdf2551
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Wed Mar 30 04:18:34 2016 -0700
+
+    sort (of hash?) requires a property
+
+commit 64be60dda726d3634ee6ba4fe987b379f9db4342
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Mar 26 03:58:21 2016 -0700
+
+    uncomment broken
+
+commit ba3a909ae514e688e48e35e38d21226d990396b7
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 25 18:20:12 2016 -0700
+
+    collapse last blockquote p bottom margin
+
+commit b4531400c0f34d4ec4a1db3c864c4bd358b569b2
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Fri Mar 25 17:52:50 2016 -0700
+
+    42
+
+commit f75b5ae28485b012bfb1d70d5f8b2546030cdfa3
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 25 16:35:38 2016 -0700
+
+    DRYer nav include "functions"
+
+commit bd4c0e77628e40ca93ff0e08129bcd8d66629fb8
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 25 16:28:07 2016 -0700
+
+    include drafts, enable topics subnav
+
+commit 764c1f377abfc0cae326273b5932c1baa17ffc5d
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 25 16:27:02 2016 -0700
+
+    don't list sub-category posts
+
+commit 5e22526d9659b04bdb0c8d4409fc662c414d2bf6
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 25 16:24:08 2016 -0700
+
+    reference skel
+
+commit c37d11fcb4026a0279ae44ca82dce2cfc80f8ff5
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 25 16:23:37 2016 -0700
+
+    for topic nav tests
+
+commit 819fcb49a02e0ce18381622f848043eca263c031
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 25 16:22:17 2016 -0700
+
+    for site-specific customization
+
+commit 7a25e7c3de3e908d98da71f5aab24228e822c378
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 22 19:01:04 2016 -0700
+
+    add style option
+
+commit 18595e60dc4a86532e34c0e7536e2baad6a67256
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Mar 21 23:32:17 2016 -0700
+
+    added site.url at 1.0 priority
+
+commit ce548d24b6843640d988cef093a8e579fe507b56
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Mar 21 23:31:24 2016 -0700
+
+    publish synchronize warning
+
+commit c8d8de6a3d5350f25553a1981de4de62eb7d45fd
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 11:39:12 2016 -0700
+
+    extra credit for images, too
+
+commit a746a4e179b99d6b522657b77f6a52dc107cd60a
+Merge: 314eb94 db2c1ce
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 09:43:54 2016 -0700
+
+    Merge branch 'refs/heads/custom-background'
+
+commit db2c1ce325891bda2e29a6fe7b4fcce9bdf30c73
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 09:43:32 2016 -0700
+
+    support more background-image locations
+
+commit 7f9bca6357eb92e66e7433ca350fe0680eaa74c1
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 09:42:37 2016 -0700
+
+    add more works options
+
+commit 314eb9476501e5627892eeea9cae4959b1a86a85
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Sun Mar 20 06:14:18 2016 -0700
+
+    typo
+
+commit 8a5ffafd1468ac4a8ef1066e4e4a4eb776179282
+Merge: 90a33c2 4161157
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 06:02:21 2016 -0700
+
+    Merge branch 'refs/heads/works-p2'
+
+commit 4161157b9a87c1f4afa48b0e0f23df569ecbffcd
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 06:01:46 2016 -0700
+
+    Add comments and empty_array definition
+
+commit 84e739bb5e53f1a99571945c450af8214f6db84f
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 05:58:28 2016 -0700
+
+    Use site.tags.featured
+    
+    Fixes #6
+
+commit fbba15ad9ee7239584fb24164bc62cfa81d3e3a9
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 05:58:05 2016 -0700
+
+    Don't use id and use site.tags.featured
+
+commit ec900101bef1a4426316d26011d215d5b9a859a8
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 05:57:36 2016 -0700
+
+    Don't use reserved "id"
+    
+    Fixes #5
+
+commit b37664f191e7415a6e11c92c23f288ba1bab8da6
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Mar 20 05:55:47 2016 -0700
+
+    Works updates
+    
+    - Sort by priority, date since most recent is not necessarily the most
+    important
+    - Back/Next buttons. Fixes #8
+
+commit 90a33c2cf1f606b09812d64035110ab4028cf04f
+Merge: eb31be5 1507ba7
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 18 01:37:40 2016 -0700
+
+    Merge branch 'refs/heads/portfolio1'
+
+commit 1507ba73cd400d702dd6acd424fd9d88f926932c
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 18 01:32:31 2016 -0700
+
+    prep for works
+
+commit eb31be5331e98e9877f038c7a5bdbe84b16ef0c3
+Merge: 8c25d82 f6e927a
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 11 23:11:08 2016 -0800
+
+    Merge branch 'refs/heads/email-validate'
+
+commit f6e927ae0a3c1e8cc6d748452087ad1fbc4dfee6
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 11 23:10:24 2016 -0800
+
+    license
+
+commit b460d0b0ebe79be34cbf4f103c561e5c0ce5873e
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 11 23:10:06 2016 -0800
+
+    better email with validation
+
+commit 8c25d82a417eda1b19e2ae7a3ffcd8f4b00fa9b4
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 11 03:38:21 2016 -0800
+
+    missing protocol
+
+commit 794bcab593ec14094c3993574a6f8cc66272cd37
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 11 03:20:10 2016 -0800
+
+    how complete is it?
+
+commit d6897f931f1cbaad183f0b5a216dc706f76ed450
+Merge: 1d61e63 b546148
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 11 02:38:06 2016 -0800
+
+    Merge branch 'refs/heads/no-post-on-sunday'
+
+commit b5461488eb3a82326839afa1e8bf8b395817766f
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 11 02:36:43 2016 -0800
+
+    that's right, Harry, no post on Sunday
+
+commit b5bb6969c60a86aeab436b5211ce809596b967c8
+Merge: 0e84bdd 1d61e63
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Mar 10 23:46:55 2016 -0800
+
+    Merge remote-tracking branch 'refs/remotes/origin/master' into no-post-on-sunday
+
+commit 1d61e63e172f4423396695d2c1dfc34160c90173
+Author: Gary Faircloth <arkadianriver@gmail.com>
+Date:   Thu Mar 10 01:31:03 2016 -0800
+
+    notes on sharing
+
+commit 0e84bddd284ed8e2eab5e575fe592a66ee03d323
+Merge: 1ca0940 dd675e4
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Mar 10 01:05:42 2016 -0800
+
+    Merge branch 'refs/heads/sensitive'
+
+commit dd675e4bd39eb8059ed57974ea97cc0b90044e46
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Thu Mar 10 01:05:01 2016 -0800
+
+    make mail action a variable
+
+commit 1ca09408baeb692e42f40ae63240ac6985aeceb8
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 18:57:57 2016 -0800
+
+    comments with author
+
+commit c2c1122a3d7d9a90999f8560cbf5cd740d6d56e3
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:29:29 2016 -0800
+
+    style changes
+
+commit cbf0db907782e66fb6d66d130dbf217d124555f1
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:28:41 2016 -0800
+
+    post layout is now default for _posts
+
+commit be052ab645618cf708d334ff37deb7bea9a7a806
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:28:18 2016 -0800
+
+    post layout is now default for _posts
+
+commit 321c04417d00ffed83b9b4dfd04418f75ea32fdc
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:24:40 2016 -0800
+
+    Change date format
+
+commit f6237c91abe68ce023c5b926591f9ecea8fedeca
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:23:29 2016 -0800
+
+    analytics only in production
+
+commit be7ba5ea92d0ef4bfcfe61224b9c72d53056e682
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:21:30 2016 -0800
+
+    new images and give credit
+
+commit 78fc1875fa989a119710a3180b35ec2f0727bace
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:14:40 2016 -0800
+
+    rounder img edges
+
+commit e50b7f104dc5c790bf2c5732a26a7399aac5c488
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 8 02:13:44 2016 -0800
+
+    default posts as well
+
+commit 5c0fbadc0fc2a0a2258ca0e925d7825c56357f83
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Mar 4 00:34:18 2016 -0800
+
+    slightly bigger footer icons
+
+commit a3f915be1096d86160a1dddcd17696fb0c8a489f
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Tue Mar 1 12:41:55 2016 -0800
+
+    remove pointless dashes
+
+commit ae7d5ab38ec71a7be6749b9250319f862d6ccbef
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Feb 29 23:59:56 2016 -0800
+
+    sitemap and minor style change
+
+commit ef09fa0d4a96e7eb5d90e6d903db09b17f2287ee
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Feb 29 00:12:19 2016 -0800
+
+    minor mail patch
+
+commit 9c5e363c36bb0462207aaace257ef9cfe43f6772
+Merge: 50cbc48 50f1189
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Mon Feb 29 00:00:31 2016 -0800
+
+    Merge pull request #3 from arkadianriver/28-blog
+    
+    tweaks and add first posts
+
+commit 50f1189356af2d8f02dfdec1bca3d74233f9af7b
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Feb 28 23:56:45 2016 -0800
+
+    tweaks and add first posts
+
+commit 50cbc48918b84da119fd07da0868602d1d654e23
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Feb 26 01:54:08 2016 -0800
+
+    better categorization
+
+commit 918c4d9c037779871c5dff7dad9c42661bec1062
+Merge: db60bbe ab8f527
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Feb 26 00:48:02 2016 -0800
+
+    Merge pull request #2 from arkadianriver/category-rework
+    
+    new banner
+
+commit ab8f5275bf429e208f7070d76a2e1f1806e96585
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Feb 26 00:46:48 2016 -0800
+
+    new banner
+
+commit db60bbe1589aaa64bae366e85a60b27447cc8fba
+Merge: 99a8f95 2cb6cc9
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Wed Feb 24 21:59:16 2016 -0800
+
+    Merge pull request #1 from arkadianriver/prepare-for-posts
+    
+    Organize and design for posts
+
+commit 2cb6cc985c6b9741d0ba7fc461f8bb606580e36d
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Wed Feb 24 21:56:57 2016 -0800
+
+    Organize and design for posts
+
+commit 99a8f958a08b5c4eccc53da62acbdabb31446710
+Merge: da7c655 34619af
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Feb 21 09:11:18 2016 -0800
+
+    Merge remote-tracking branch 'upstream/master'
+
+commit 34619afc3ca41de8bf6188d52d6e526810bdd220
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Feb 21 09:03:27 2016 -0800
+
+    remove inner container
+
+commit da7c6558ec5d070b7e491c3d75b217fb891fbb5e
+Merge: 4e92586 d78f0a7
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Feb 21 07:27:56 2016 -0800
+
+    Merge branch 'brand-my-own'
+
+commit d78f0a75c83d79f3f4d83eece66b78bcd4cd06e4
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Feb 21 07:27:30 2016 -0800
+
+    brand my own
+
+commit 4e925868cd8e9213a272a58a91b1c3f9eaf75568
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sun Feb 21 06:45:47 2016 -0800
+
+    custom title
+
+commit 1dd66047098d30a516a8429f795b08f67892a5f0
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Sat Feb 20 05:55:49 2016 -0800
+
+    fix baseurl support
+
+commit 47b7aa253df675f9408dcb72eed9b8cba92ff793
+Author: arkadianriver <arkadianriver@gmail.com>
+Date:   Fri Feb 19 22:34:04 2016 -0800
+
+    Upload for JekyllThemes
